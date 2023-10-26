@@ -1023,7 +1023,8 @@ textarea.input {
   max-width: 100%;
 }
 
-.recent-news__body .news-column__image {
+.recent-news__body .news-column__image,
+.recent-news__body .news-column__image img {
   width: 100%;
 }
 
